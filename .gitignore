@@ -1,0 +1,16 @@
+node_modules/
+.npm-cache/
+.electron-cache/
+.builder-cache/
+.edge*/
+.real-data/
+.demo-data/
+.pkg-data/
+.pkg2-data/
+.electron-log.txt
+.real-log.txt
+debug.log
+*.log
+dist/
+dist-web/
+out/
